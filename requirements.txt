@@ -1,0 +1,2 @@
+sphinx-book-theme
+sphinx>=5.0
